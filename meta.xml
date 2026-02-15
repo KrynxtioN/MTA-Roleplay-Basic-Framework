@@ -1,0 +1,126 @@
+<meta>
+	
+	<!--
+		*/FILES
+	-->
+	
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/0.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/1.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/2.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/3.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/4.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/5.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/6.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/7.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/8.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/9.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/10.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/11.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/12.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/14.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/15.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/16.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/17.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/18.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/22.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/23.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/24.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/25.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/26.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/27.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/28.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/29.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/30.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/31.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/32.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/33.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/34.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/35.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/36.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/37.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/38.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/39.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/40.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/41.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/42.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/43.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/44.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/45.png"/>
+	<file src = "ReallifeGrundgeruest/Files/Waffenicons/46.png"/>
+	
+	<!--
+		*/MAPS
+	-->
+	
+	<map src = "ReallifeGrundgeruest/Maps/Stadthalle.map"/>
+	<map src = "ReallifeGrundgeruest/Maps/LSPD.map"/>
+	<map src = "ReallifeGrundgeruest/Maps/Busjob.map"/>
+	<map src = "ReallifeGrundgeruest/Maps/Yakuza.map"/>
+	
+	<!--
+		*/SCRIPTS
+	-->
+	
+	<script src = "ReallifeGrundgeruest/Main-client.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Main-server.lua"/>
+	
+	<script src = "ReallifeGrundgeruest/Server/Teleportersystem.lua"/>
+	
+	<script src = "ReallifeGrundgeruest/Server/Anmeldebereich/Server.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Anmeldebereich/Client.lua" type = "client" cache = "false"/>
+	
+	<script src = "ReallifeGrundgeruest/Server/Fahrzeugsystem/Server.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Fahrzeugsystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Fahrzeugsystem/Fahrschule.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Fahrzeugsystem/Fahrschule.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Fahrzeugsystem/Tankstelle.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Fahrzeugsystem/Tankstelle.lua" type = "client" cache = "false"/>
+	
+	<script src = "ReallifeGrundgeruest/Client/Adminsystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Adminsystem/Server.lua"/>
+	
+	<script src = "ReallifeGrundgeruest/Client/Fraktionssystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Fraktionssystem/Server.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Fraktionssystem/Duty.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Fraktionssystem/Drogentransporter.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Fraktionssystem/Drogentransporter.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Fraktionssystem/Fahrzeuge.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Fraktionssystem/Duty.lua"  type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Fraktionssystem/Waffenlager.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Fraktionssystem/Waffenlager.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Fraktionssystem/Waffentransporter.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Fraktionssystem/Waffentransporter.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Fraktionssystem/Reporter/Server.lua"/>
+	
+	<script src = "ReallifeGrundgeruest/Client/Haussystem/Client.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Haussystem/Server.lua"/>
+	
+	<script src = "ReallifeGrundgeruest/Client/Anzeigen/Infobox.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Anzeigen/Eigenmenue.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Anzeigen/HUD.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Anzeigen/Helpmenue.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Anzeigen/Scoreboard.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Anzeigen/Inventar.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Anzeigen/Hospital.lua" type = "client" cache = "false"/>
+	
+	<script src = "ReallifeGrundgeruest/Server/Sonstiges/Eigenmenue.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Sonstiges/Faggioverleih.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Sonstiges/Bank.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Sonstiges/Bank.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Sonstiges/Peds.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Sonstiges/Blips.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Sonstiges/Gates.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Sonstiges/Inventar.lua"/>
+	
+	<script src = "ReallifeGrundgeruest/Server/Jobsystem/Busfahrer/Server.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Jobsystem/Busfahrer/Client.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Jobsystem/Jobcenter.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Jobsystem/Pizzalieferant/Server.lua"/>
+	<script src = "ReallifeGrundgeruest/Client/Jobsystem/Pizzalieferant/Client.lua" type = "client" cache = "false"/>
+	
+	<script src = "ReallifeGrundgeruest/Client/Shops/Ammunation.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Client/Shops/Supermarkt.lua" type = "client" cache = "false"/>
+	<script src = "ReallifeGrundgeruest/Server/Shops/Supermarkt.lua"/>
+	<script src = "ReallifeGrundgeruest/Server/Shops/Ammunation.lua"/>
+	
+</meta>

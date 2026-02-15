@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <object id="object (cuntw_carport2_) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="999.20001" posY="-1083.2" posZ="25.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cuntw_carport2_) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1006.7" posY="-1083.2" posZ="25.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cuntw_carport2_) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1014.2" posY="-1083.2" posZ="25.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cuntw_carport2_) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1021.7" posY="-1083.2" posZ="25.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cuntw_carport2_) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1029.2" posY="-1083.2" posZ="25.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1032.7" posY="-1083.2" posZ="23.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bollard) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1214" doublesided="false" scale="1" dimension="0" posX="972.90002" posY="-1107.6899" posZ="22.86" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollard) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1214" doublesided="false" scale="1" dimension="0" posX="972.90039" posY="-1098.1602" posZ="22.86" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cr1_door) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3029" doublesided="false" scale="1" dimension="0" posX="1032.7" posY="-1107.7" posZ="22.8" rotX="0" rotY="0" rotZ="90"></object>
+</map>

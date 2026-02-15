@@ -1,0 +1,23 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (billbrdlan_08) (1)" radius="119.06626" interior="0" model="4230" lodModel="4229" posX="1597.9063" posY="-1699.75" posZ="30.21094" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (BillBd3) (1)" radius="18.336557" interior="0" model="1260" lodModel="1266" posX="1538.5234" posY="-1609.8047" posZ="19.84375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1545.1" posY="-1634.2" posZ="13" rotX="0" rotY="0" rotZ="324"></object>
+    <object id="object (fencesmallb) (2)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1545.1" posY="-1634.2" posZ="14" rotX="0" rotY="0" rotZ="323.998"></object>
+    <object id="object (fencesmallb) (3)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1548.4" posY="-1636.6" posZ="13" rotX="0" rotY="0" rotZ="323.998"></object>
+    <object id="object (fencesmallb) (4)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1548.4" posY="-1636.6" posZ="14" rotX="0" rotY="0" rotZ="323.998"></object>
+    <object id="object (fencesmallb) (5)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1546.3" posY="-1621.5" posZ="13" rotX="0" rotY="0" rotZ="40"></object>
+    <object id="object (lhouse_barrier3) (1)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1549.6" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (2)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1552.9" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (3)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1556.2" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (4)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1559.5" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (5)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1562.8" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (6)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1566.1" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (7)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1569.4" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (8)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1572.7" posY="-1617.7" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (1)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="1576.1" posY="-1617.7" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollard) (1)" breakable="true" interior="0" alpha="255" model="1214" doublesided="false" scale="1" dimension="0" posX="1548.1" posY="-1620" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Gen_doorEXT12) (1)" breakable="true" interior="0" alpha="255" model="1533" doublesided="true" scale="1" dimension="0" posX="1584.1" posY="-1637.9" posZ="12.3" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (RACK2) (1)" breakable="true" interior="0" alpha="255" model="925" doublesided="false" scale="1" dimension="0" posX="1541.1" posY="-1616.7" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (by_fuel06) (1)" breakable="true" interior="0" alpha="255" model="16599" doublesided="false" scale="1" dimension="0" posX="1541.6" posY="-1604.4" posZ="17.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cxrf_oiltank) (1)" breakable="true" interior="0" alpha="255" model="3287" doublesided="false" scale="1" dimension="0" posX="1605.9" posY="-1604.4" posZ="17.3" rotX="0" rotY="0" rotZ="0"></object>
+</map>
