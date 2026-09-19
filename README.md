@@ -1,6 +1,6 @@
-# Roleplay Basic Framework
+# Roleplay Framework
 
-Roleplay Basic Framework is a basic roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA), developed in Lua.
+This is a basic roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA), developed in Lua.
 
 The framework provides a simple foundation for creating your own roleplay server. It already includes the essential systems needed to start developing and can easily be extended with additional factions, jobs and gameplay features.
 
