@@ -1,4 +1,6 @@
-# Roleplay Framework
+<p align="center">
+  <img src="RF_BANNER.png">
+</p>
 
 This is a basic roleplay gamemode framework for Multi Theft Auto: San Andreas (MTA:SA), developed in Lua.
 
