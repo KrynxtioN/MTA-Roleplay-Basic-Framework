@@ -36,5 +36,7 @@ end)
 addEventHandler("onClientPlayerWasted",root,function(player)
 	if(player == localPlayer)then
 		Pizzalieferant.lastMarker = nil
+		if(isElement(Pizzalieferant.marker))then destroyElement(Pizzalieferant.marker)end
+		if(isElement(Pizzalieferant.blip))then destroyElement(Pizzalieferant.blip)end
 	end
 end)
