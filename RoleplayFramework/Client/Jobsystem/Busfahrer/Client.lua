@@ -49,6 +49,8 @@ end)
 addEventHandler("onClientPlayerWasted",root,function(player)
 	if(player == localPlayer)then
 		Busfahrer.points = 0
+		if(isElement(Busfahrer.marker))then destroyElement(Busfahrer.marker)end
+		if(isElement(Busfahrer.blip))then destroyElement(Busfahrer.blip)end
 		if(isTimer(Busfahrer.timer))then
 			killTimer(Busfahrer.timer)
 		end
